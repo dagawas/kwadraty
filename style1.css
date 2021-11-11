@@ -1,0 +1,15 @@
+body {
+    background-color:#808080; 
+}
+h1 {
+    color:white;
+}
+.square {
+       
+        height: 100px;
+        width: 100px;
+        background-color: #fea500;
+        margin-bottom: 2%;
+}
+
+
